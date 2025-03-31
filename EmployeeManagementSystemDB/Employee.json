@@ -7,5 +7,14 @@
     "email": "sairamdanda123@gmail.com",
     "password": "Shesi@1234",
     "createdAt": "2025-03-31T13:49:03.276Z"
+  },
+  {
+    "id": 1743428976559,
+    "name": "Yogi",
+    "employeeId": "EMS002",
+    "phone": "9346421539",
+    "email": "yogi@gmail.com",
+    "password": "Yogi@1234",
+    "createdAt": "2025-03-31T13:49:36.559Z"
   }
 ]
