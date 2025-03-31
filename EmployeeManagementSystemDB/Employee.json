@@ -25,5 +25,13 @@
     "email": "sai@gmail.com",
     "password": "sai@1234",
     "id": "1743431794465"
+  },
+  {
+    "name": "Mani",
+    "employeeId": "EMS004",
+    "phone": "8524569875",
+    "email": "mani@gmail.com",
+    "password": "Mani@1234",
+    "id": "1743432190818"
   }
 ]
