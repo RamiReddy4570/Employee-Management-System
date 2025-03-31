@@ -17,5 +17,13 @@
     "password": "Yogi@1234",
     "createdAt": "2025-03-31T13:49:36.559Z",
     "updatedAt": "2025-03-31T13:50:40.429Z"
+  },
+  {
+    "name": "sai",
+    "employeeId": "EMS003",
+    "phone": "7418529635",
+    "email": "sai@gmail.com",
+    "password": "sai@1234",
+    "id": "1743431794465"
   }
 ]
