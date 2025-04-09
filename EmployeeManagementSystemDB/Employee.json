@@ -33,5 +33,13 @@
     "email": "mani@gmail.com",
     "password": "Mani@1234",
     "id": "1743432190818"
+  },
+  {
+    "name": "Srikanth",
+    "employeeId": "EMS007",
+    "phone": "9638527415",
+    "email": "srikanth@gmail.com",
+    "password": "Srikath@123",
+    "id": "1744196463112"
   }
 ]
