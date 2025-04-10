@@ -42,5 +42,14 @@
     "email": "sairamdanda123@gmail.com",
     "password": "Raki@123",
     "createdAt": "2025-04-10T07:57:13.781Z"
+  },
+  {
+    "id": 1744272424696,
+    "name": "Somu",
+    "employeeId": "EMS006",
+    "phone": "9346421539",
+    "email": "sairamdanda123@gmail.com",
+    "password": "Somu@123",
+    "createdAt": "2025-04-10T08:07:04.697Z"
   }
 ]
