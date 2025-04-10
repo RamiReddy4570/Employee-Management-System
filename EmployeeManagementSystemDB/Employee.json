@@ -51,5 +51,14 @@
     "email": "sairamdanda123@gmail.com",
     "password": "Somu@123",
     "createdAt": "2025-04-10T08:07:04.697Z"
+  },
+  {
+    "id": 1744276832346,
+    "name": "mukesh",
+    "employeeId": "EMS007",
+    "phone": "7418529635",
+    "email": "sairamdanda123@gmail.com",
+    "password": "sdfghjkihgc",
+    "createdAt": "2025-04-10T09:20:32.346Z"
   }
 ]
